@@ -1,0 +1,8 @@
+[
+  {
+    "nombre": "Carrito 1 IMP.AB",
+    "datos": [
+        {"*":"PAGO AFIP"},{"Ingrese Formulario o Barra:":"1026"},{"Ingrese CUIL TRABAJADOR":"23300111599"},{"Ingrese PERIODO FISCAL (MMAA)":"0521"},{"Ingrese CANT.DE HORAS":"12"},{"Ingrese CUIT/L EMPL.":"23300111599"},{"_":"_"}
+    ]
+  }
+]

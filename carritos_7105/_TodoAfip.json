@@ -1,0 +1,10 @@
+[
+  {
+    "nombre": "Carrito 1 IMP.AB",
+    "datos": [
+{"*":"PAGO AFIP"},{"Ingrese Formulario o Barra:":"1026"},{"Ingrese CUIL TRABAJADOR":"23300111599"},{"Ingrese PERIODO FISCAL (MMAA)":"0421"},{"Ingrese CANT.DE HORAS":"6"},{"Ingrese CUIT/L EMPL.":"23300111599"},{"_":"_"},
+{"*":"PAGO AFIP"},{"Ingrese Formulario o Barra:":"799"},{"Ingrese CUIT":"23300111599"},{"Ingrese ESTABLECIMIENTO":"0"},{"Ingrese IMPUESTO":"30"},{"Ingrese CONCEPTO":"19"},{"Ingrese SUBCONCEPTO":"51"},{"Ingrese PERIODO FISCAL (MMAA)":"0621"},{"Ingrese ANTICIPO/CUOTA":"0"},{"30-IVA":"100.30"},{"_":"_"},
+{"*":"PAGO AFIP"},{"Ingrese Formulario o Barra:":"1026"},{"Ingrese CUIL TRABAJADOR":"23300111599"},{"Ingrese PERIODO FISCAL (MMAA)":"0521"},{"Ingrese CANT.DE HORAS":"12"},{"Ingrese CUIT/L EMPL.":"23300111599"},{"_":"_"}
+    ]
+  }
+]

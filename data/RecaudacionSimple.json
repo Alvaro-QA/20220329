@@ -1,0 +1,17 @@
+[
+  {
+    "tipo": "PAGO BARRA",
+    "datos": [
+      {"Ingrese código de barras":"0389619664014001"},
+      {"_":"_"},
+      {"Ingrese Importe:":"10.12"},
+      {"_":"_"},
+
+
+      {"Ingrese código de barras":"0389619664014002"},
+      {"_":"_"},
+      {"Ingrese Importe:":"100.11"},
+      {"_":"_"}
+    ]
+  }
+]

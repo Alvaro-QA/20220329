@@ -1,0 +1,13 @@
+[
+  {
+    "nombre": "Carrito MIXTO",
+    "inactivo": false,
+    "datos": [
+{"*":"PAGO AFIP"},{"Ingrese Formulario o Barra:":"1026"},{"Ingrese CUIL TRABAJADOR":"23300111599"},{"Ingrese PERIODO FISCAL (MMAA)":"0321"},{"Ingrese CANT.DE HORAS":"6"},{"Ingrese CUIT/L EMPL.":"23300111599"},{"_":"_"},
+{"Ingrese código de barras":"0389619664014285"},{"_":"_"},{"Ingrese Importe:":"381"},{"_":"_"},
+{"Ingrese código de barras":"0389619664014286"},{"_":"_"},{"Ingrese Importe:":"2862"},{"_":"_"},
+{"Ingrese código de barras":"267320093450000000804890"},{"_":"_"},{"_":"_"},
+{"Ingrese código de barras":"098410796018800001022978"},{"_":"_"},{"_":"_"}
+		]
+  }
+]
